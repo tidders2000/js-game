@@ -1,0 +1,1 @@
+This was a code along game as part of Jonas's excellent JS course on Udemy.
